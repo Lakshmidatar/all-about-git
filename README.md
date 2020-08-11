@@ -160,3 +160,5 @@ Use the GitHub website to submit a new pull request against upstream/master.
 -   lorem ipsum generator: https://www.lipsum.com/
 
 Hi! Added as part of today's task.
+
+This is much easier than the terminals :) 
